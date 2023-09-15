@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+Hi, I'm Nicole. I'm exploring creating a website. This is where my bio will go. 
