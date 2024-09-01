@@ -1,1 +1,122 @@
 /* css styles */
+html, body {
+    background-color: #121314;
+    font-family: 'Lato', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0; 
+    padding: 0; 
+    display: flex;
+    flex-direction: column;
+    scroll-behavior: smooth;
+    overflow-x: hidden; 
+    color: #ffffff;
+}
+
+main {
+    flex: 1;
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #000000; 
+    width: 100%; 
+    justify-content: flex-start; 
+    align-items: center; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+/* links in the navbar */
+.navbar a {
+    color: #f0f0f0 !important; 
+    text-decoration: none; 
+    padding: 8px 12px; 
+    position: relative;
+    display: inline-block; 
+    font-family: 'Lato', sans-serif;
+}
+
+/* Active link color */
+.navbar a.active {
+    color: #6897e7 !important; 
+}
+
+/* Underline effect */
+.navbar a::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -2px; 
+    border-bottom: 2px solid #6897e7; 
+    width: 0; 
+    transition: width 0.3s ease; 
+}
+
+/* Expand underline effect on hover */
+.navbar a:hover::after {
+    width: 100%; 
+}
+
+.navbar-nav .nav-item img {
+    height: 25px; 
+  }
+
+.navbar i {
+    margin-right: 8px; 
+    font-size: 24px; 
+    display: inline-block; 
+    color: #f0f0f0; 
+}
+
+/* Section Styling */
+section {
+    padding-top: 30px; 
+}
+
+/* Profile Image Styling */
+.circular-image {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    object-fit: scale-down; 
+    display: block; 
+    margin: auto; 
+}
+
+/* Project Grid */
+.grid {
+    display: grid;
+    gap: 40px; 
+  }
+
+/* Custom button */
+.btn-custom-primary {
+    background-color:#121314;
+    border-color: #6897e7;     
+    font-size: 0.9rem;         
+    padding: 0.2rem 0.5rem;  
+    color:  #6897e7;
+    border-radius: 0.5rem; 
+  }
+  
+  .btn-custom-primary:hover {
+    background-color: #6897e7; 
+    border-color: #6897e7;    
+  }
+
+/* Footer Styling */
+footer.footer {
+    position: relative;
+    width: 100vw; 
+    left: 50%; 
+    margin-left: -50vw; 
+    background-color: #000; 
+    color: #fff; 
+    text-align: center; 
+    padding: 20px; 
+    box-sizing: border-box;
+    font-size: 0.8em;
+}
+
+
