@@ -24,6 +24,13 @@ main {
     justify-content: flex-start; 
     align-items: center; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    margin: 0;
+    border-bottom: 0;
+}
+
+/* Expand underline effect on hover */
+.navbar a:hover::after {
+    width: 100%; 
 }
 
 /* links in the navbar */
@@ -53,14 +60,9 @@ main {
     transition: width 0.3s ease; 
 }
 
-/* Expand underline effect on hover */
-.navbar a:hover::after {
-    width: 100%; 
-}
-
 .navbar-nav .nav-item img {
     height: 25px; 
-  }
+}
 
 .navbar i {
     margin-right: 8px; 
@@ -69,10 +71,7 @@ main {
     color: #f0f0f0; 
 }
 
-/* Section Styling */
-section {
-    padding-top: 30px; 
-}
+
 
 /* Profile Image Styling */
 .circular-image {
@@ -119,4 +118,64 @@ footer.footer {
     font-size: 0.8em;
 }
 
+/* Landing Page Styling */
+header.home {
+    position: relative;
+    width: 100vw; 
+    left: 50%; 
+    height: 100vh; /* Full viewport height */
+    margin-left: -50vw; 
+    background: url('img/header.jpg') no-repeat center center; /* Replace with your image path */
+    background-size: cover; /* Ensure the image covers the entire header area */
+    color: #fff; 
+    text-align: center; 
+    align-items: center;
+    padding: 0; /*100px*/
+    box-sizing: border-box;
+    font-size: 0.8em;
+    margin-top: -2.8vw; 
+    margin-bottom: 0; /* Ensure no space below */
+    display: flex; /* Apply Flexbox layout */
+    flex-direction: column; /* Align children in a column */
+    justify-content: center; /* Center children vertically */
+
+ }
+
+
+/* Dark overlay */
+header.home::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay with 50% opacity */
+    z-index: 1; 
+}
+
+header.home * {
+    position: relative;
+    z-index: 2; 
+}
+
+/*Down arrow */
+.btn-custom-arrow::after {
+    content: '';
+    position: absolute;
+    bottom: -15px; 
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent; 
+    border-right: 20px solid transparent; 
+    border-top: 20px solid #fff; 
+    border-radius: 5px; 
+}
+
+/* Hover and active states for button */
+.btn-custom-arrow:hover {
+    transform: translateY(-2px); 
+}
 
