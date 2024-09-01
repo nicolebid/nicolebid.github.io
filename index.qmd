@@ -1,13 +1,12 @@
 ---
-title: "Welcome!"
 format: html
 ---
 
 <!-- Landing Page Section -->
-<section id="home">
+<header id="home" class="home">
     ```{r, child="home.qmd"}
     ```
-</section>
+</header>
 
 <!-- Bio Section -->
 <section id="about">

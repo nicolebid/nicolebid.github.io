@@ -1,3 +1,6 @@
+
+<br>
+
 ![](img/profile_website.png){.circular-image}
 
 Hi! I'm Nicole, a data science enthusiast coming from a rewarding background as a mathematics educator. With a Master of Data Science 
@@ -9,5 +12,3 @@ data science to uncover insights and drive data-driven decisions.
 Beyond my professional pursuits, you’ll find me immersed in activities like hockey, hiking, travel, and promoting mental well-being. As a coach on the ice, 
 a fitness enthusiast in the gym, and a curious traveler, I believe in the power of holistic well-being for personal and professional growth. This website serves
 as a platform to share my projects and passions, offering a glimpse into how my unique experiences and interests shape my approach to data science.
-
-

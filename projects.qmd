@@ -2,6 +2,7 @@
 title: "Featured Projects"
 format: html
 ---
+<br>
 
 <div style="text-align: center;">
   <h1>Featured Projects</h1>
@@ -16,7 +17,7 @@ format: html
 :::
 
 ::: {.g-col-6}
-<strong><span style="font-size: 1.25em;">PWHL Goalie Tracker</span></strong>
+
 
 A fan-friendly dashboard showcasing goalie statistics and team rankings for the inaugural season of the Professional Women's Hockey League (PWHL).&nbsp;
 
@@ -39,8 +40,8 @@ A fan-friendly dashboard showcasing goalie statistics and team rankings for the 
 
 A dashboard application developed collaboratively with peers during my Master’s program, designed to assist Canadian homeowners in making informed solar panel purchasing decisions.&nbsp;
 
-<a href="https://example.com/project-2" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
-<a href="https://example.com/project-2" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
+<a href="https://dsci-532-2024-9-solar-savers.onrender.com/" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
+<a href="https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
 :::
 
 :::

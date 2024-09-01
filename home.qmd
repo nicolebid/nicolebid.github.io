@@ -1,22 +1,5 @@
----
-title: "Welcome!"
----
+<span style="font-size: 4em; font-weight: 300;">Nicole Bidwell</span>
 
-# Landing Page
+<span style="font-size: 1.2em; font-weight: 200;">Data Science Professional | Educator</span>
 
-Landing page 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-end landing page 
-
-
+<a href="index.qmd#about" class="btn btn-custom-arrow"></a>
