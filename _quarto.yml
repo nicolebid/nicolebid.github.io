@@ -3,18 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "My Website"
+  title: "Nicole Bidwell"
   navbar:
+    pinned: false
     left:
-      - href: index.qmd
+      - href: index.qmd#home
         text: Home
-      - about.qmd
-
+      - href: index.qmd#about
+        text: About
+      - href: index.qmd#projects
+        text: Projects
+    right:
+      - href: 'https://www.github.com'
+        text: "![](img/github-mark-white.png)"
+      - href: 'https://www.linkedin.com'
+        text: "![](img/linkedin-white.png)"
+             
 format:
   html:
-    theme: cosmo
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
     css: styles.css
-    toc: true
-
-
-
+    toc: false
