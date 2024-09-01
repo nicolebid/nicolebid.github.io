@@ -5,7 +5,6 @@ project:
 website:
   title: "Nicole Bidwell"
   navbar:
-    pinned: false
     left:
       - href: index.qmd#home
         text: Home
