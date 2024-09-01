@@ -1,7 +1,28 @@
 ---
 title: "Welcome!"
+format: html
 ---
 
-This is my website.
+<!-- Landing Page Section -->
+<section id="home">
+    ```{r, child="home.qmd"}
+    ```
+</section>
 
+<!-- Bio Section -->
+<section id="about">
+    ```{r, child="about.qmd"}
+    ```
+</section>
 
+<!-- Projects Section -->
+<section id="projects">
+    ```{r, child="projects.qmd"}
+    ```
+</section>
+
+<!-- Footer Section -->
+<footer class="footer">
+    ```{r, child="footer.qmd"}
+    ```
+</footer>
