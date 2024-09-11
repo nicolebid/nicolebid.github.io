@@ -1,11 +1,11 @@
 ---
-title: "Featured Projects"
+title: "Featured Work"
 format: html
 ---
 <br>
 
 <div style="text-align: center;">
-  <h1>Featured Projects</h1>
+  <h1>Featured Work</h1>
 </div>
 
 <br>
@@ -17,7 +17,7 @@ format: html
 :::
 
 ::: {.g-col-6}
-
+<strong><span style="font-size: 1.25em;">PWHL Goalie Tracker</span></strong>
 
 A fan-friendly dashboard showcasing goalie statistics and team rankings for the inaugural season of the Professional Women's Hockey League (PWHL).&nbsp;
 
@@ -26,8 +26,8 @@ A fan-friendly dashboard showcasing goalie statistics and team rankings for the 
 :::
 
 :::
----
-<div style="margin-top: 35px;"></div> <!-- Adds vertical space -->
+***
+<div style="margin-top: 35px;"></div> <!-- #2 PROJECT: SOLAR SAVERS -->
 
 ::: {.grid}
 
@@ -42,6 +42,24 @@ A dashboard application developed collaboratively with peers during my Master’
 
 <a href="https://dsci-532-2024-9-solar-savers.onrender.com/" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
 <a href="https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
+:::
+
+:::
+***
+<div style="margin-top: 35px;"></div> <!-- #3 PROJECT: AI ED ARTICLE -->
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/ai_ed.png)
+:::
+
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">Leveraging the Power of AI in Education: Insider Perspectives and Practices</span></strong>
+
+An article discussing educator perspectives on AI in education, containing my insights paired with survey-based results of effective implementations and concerns.&nbsp;
+
+<a href="https://medium.com/@nrbidwell/leveraging-the-power-of-ai-in-education-insider-perspectives-and-practices-0679cb21d467" class="btn btn-custom-primary" target="_blank">Medium Article</a>
 :::
 
 :::
