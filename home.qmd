@@ -1,5 +1,7 @@
-<span style="font-size: 4em; font-weight: 300;">Nicole Bidwell</span>
+<span style="font-size: 6em; font-weight: 300; font-family: 'Roboto', sans-serif; display: block; margin-bottom: -0.3em;">Nicole Bidwell</span>
 
-<span style="font-size: 1.2em; font-weight: 200;">Data Science Professional | Educator</span>
+<span style="font-size: 1.5em; font-family: 'Roboto', sans-serif; font-weight: 200;">
+    Data Science Specialist | Educator
+</span>
 
-<a href="index.qmd#about" class="btn btn-custom-arrow"></a>
+<a href="index.qmd#about" class="btn btn-custom-arrow" style="margin-top: 40px;"></a>
