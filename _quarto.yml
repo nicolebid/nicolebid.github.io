@@ -11,11 +11,11 @@ website:
       - href: index.qmd#about
         text: About
       - href: index.qmd#projects
-        text: Projects
+        text: Featured Work
     right:
-      - href: 'https://www.github.com'
+      - href: 'https://github.com/nicolebid'
         text: "![](img/github-mark-white.png)"
-      - href: 'https://www.linkedin.com'
+      - href: 'https://www.linkedin.com/in/nicolebidwell/'
         text: "![](img/linkedin-white.png)"
              
 format:
