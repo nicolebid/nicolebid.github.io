@@ -4,4 +4,4 @@
     Data Science Specialist | Educator
 </span>
 
-<a href="index.qmd#about" class="btn btn-custom-arrow" style="margin-top: 40px;"></a>
+<a href="index.qmd#about" class="btn btn-custom-arrow" style="margin-top: 200px;"></a>
