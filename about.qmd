@@ -1,14 +1,16 @@
 
+
+<br>
 <br>
 
 ![](img/profile_website.png){.circular-image}
 
-Hi! I'm Nicole, a data science enthusiast coming from a rewarding background as a mathematics educator. With a Master of Data Science 
-from the University of British Columbia, and a bachelor's degree in mathematics from Simon Fraser University, I've gained a solid foundation in data analysis, 
-machine learning and statistical modeling. My experience as an educator has refined my problem-solving skills and ability to communicate complex topics to diverse audiences dash&mdash;skills I now apply in 
-data science to uncover insights and drive data-driven decisions. 
+<br>
 
+Hi! I'm Nicole, a Data Science Specialist with a rewarding background in Education. Obtaining a Master of Data Science from the University of British Columbia, 
+and a Bachelor of Science in Mathematics from Simon Fraser University, has built my solid foundation in data analysis, machine learning and statistical modeling.
+Working in Education&mdash;including roles as a Senior Mathematics Educator and Guidance Counselor&mdash;has refined my problem-solving skills and ability to 
+communicate complex topics to diverse audiences. I now apply these skills in Data Science to uncover insights and facilitate data-driven decisions. 
 
-Beyond my professional pursuits, you’ll find me immersed in activities like hockey, hiking, travel, and promoting mental well-being. As a coach on the ice, 
-a fitness enthusiast in the gym, and a curious traveler, I believe in the power of holistic well-being for personal and professional growth. This website serves
-as a platform to share my projects and passions, offering a glimpse into how my unique experiences and interests shape my approach to data science.
+Beyond my professional pursuits, you’ll find me immersed in activities like hockey, hiking, travel, and promoting mental well-being. This website serves as a platform 
+to share my projects and passions, offering a glimpse into how my unique experiences and interests shape my approach to data science.
