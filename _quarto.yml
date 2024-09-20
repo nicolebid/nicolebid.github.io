@@ -12,6 +12,8 @@ website:
         text: About
       - href: index.qmd#projects
         text: Featured Work
+      - href: index.qmd#contact
+        text: Contact
     right:
       - href: 'https://github.com/nicolebid'
         text: "![](img/github-mark-white.png)"
