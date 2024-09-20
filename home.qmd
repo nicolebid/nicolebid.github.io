@@ -1,7 +1,13 @@
-<span style="font-size: 6em; font-weight: 300; font-family: 'Roboto', sans-serif; display: block; margin-bottom: -0.3em;">Nicole Bidwell</span>
+<span style="font-size: 6em; font-weight: 300; font-family: 'Roboto', sans-serif; display: block; margin-bottom: -0.3em; margin-top: 50px;">Nicole Bidwell</span>
 
 <span style="font-size: 1.5em; font-family: 'Roboto', sans-serif; font-weight: 200;">
     Data Science Specialist | Educator
 </span>
+
+<br>
+
+[![GitHub](img/github.png){.home-button style="width: 50px; height: 50px;"}](https://github.com/nicolebid) &nbsp; &nbsp;
+[![GitHub](img/mail.png){.home-button style="width: 50px; height: 50px;"}](index.qmd#contact) &nbsp; &nbsp;
+[![LinkedIn](img/linkedin_2.png){.home-button style="width: 50px; height: 50px;"}](https://www.linkedin.com/in/nicolebidwell) 
 
 <a href="index.qmd#about" class="btn btn-custom-arrow" style="margin-top: 200px;"></a>

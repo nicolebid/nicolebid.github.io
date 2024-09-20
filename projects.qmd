@@ -38,7 +38,7 @@ A fan-friendly dashboard showcasing goalie statistics and team rankings for the 
 ::: {.g-col-6}
 <strong><span style="font-size: 1.25em;">Solar Savers: Solar Panel Cost-Effectiveness</span></strong>
 
-A dashboard application developed collaboratively with peers during my Master’s program, designed to assist Canadian homeowners in making informed solar panel purchasing decisions.&nbsp;
+A dashboard application developed collaboratively and designed to assist Canadian homeowners in making informed solar panel purchasing decisions.&nbsp;
 
 <a href="https://dsci-532-2024-9-solar-savers.onrender.com/" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
 <a href="https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
@@ -63,5 +63,3 @@ An article discussing educator perspectives on AI in education, containing my in
 :::
 
 :::
-
-<br>

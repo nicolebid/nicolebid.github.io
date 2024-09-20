@@ -1,0 +1,23 @@
+---
+title: "Contact"
+format: html
+---
+<br><br>
+
+<div style="text-align: center;">
+  <h1>Contact</h1>
+</div>
+
+<br>
+
+<div style="text-align: center;">
+I welcome your thoughts and insights! Whether you have questions, feedback, or have ideas for collaboration, I'm happy to connect. 
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center;">
+<div data-tf-live="01J872ZAZVYMZZPZ0T9DBSSPTW"></div><script src="//embed.typeform.com/next/embed.js"></script>
+</div>
+
+<br><br>

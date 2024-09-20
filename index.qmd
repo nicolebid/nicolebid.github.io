@@ -20,6 +20,12 @@ format: html
     ```
 </section>
 
+<!-- Contact Section -->
+<section id="contact">
+    ```{r, child="contact.qmd"}
+    ```
+</section>
+
 <!-- Footer Section -->
 <footer class="footer">
     ```{r, child="footer.qmd"}
