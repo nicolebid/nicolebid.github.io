@@ -10,4 +10,4 @@
 [![GitHub](img/mail.png){.home-button style="width: 50px; height: 50px;"}](index.qmd#contact) &nbsp; &nbsp;
 [![LinkedIn](img/linkedin_2.png){.home-button style="width: 50px; height: 50px;"}](https://www.linkedin.com/in/nicolebidwell) 
 
-<a href="index.qmd#about" class="btn btn-custom-arrow" style="margin-top: 200px;"></a>
+<a href="index.qmd#about" class="btn-custom-arrow" style="margin-top: 200px;"></a>

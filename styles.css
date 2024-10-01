@@ -176,8 +176,8 @@ header.home * {
 /*Down arrow */
 .btn-custom-arrow {
     display: inline-block;
-    width: 50px; 
-    height: 50px; 
+    width: 70px; 
+    height: 53px; 
     background-image: url('img/arrow_2.png');
     background-size: cover; 
     background-position: center; 

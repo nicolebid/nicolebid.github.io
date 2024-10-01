@@ -9,9 +9,11 @@ format: html
 </div>
 
 <br>
-
+<div style="text-align: center;">
+  *** 
+</div>
+<div style="margin-bottom: 37px;"></div>
 ::: {.grid}
-
 ::: {.g-col-6}
 ![](img/pwhl_goalie_tracker_demo.gif)
 :::
@@ -63,3 +65,22 @@ An article discussing educator perspectives on AI in education, containing my in
 :::
 
 :::
+***
+<div style="margin-top: 35px;"></div> <!-- #4 PROJECT: AIRBNB ANALYSIS -->
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/Airbnb_analysis.png)
+:::
+
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">Airbnb Analysis</span></strong>
+
+A project that implements machine learning models to predict listing prices based on property features, offering insights into the key factors that drive pricing trends. &nbsp;
+
+<a href="https://github.com/MoNorouzi23/Airbnb_analysis" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
+:::
+
+:::
+***
