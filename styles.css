@@ -194,3 +194,40 @@ header.home * {
     filter: brightness(0.5) invert(0.8); 
 }
 
+/* Project Summary Table */
+details table {
+    background-color: #1a1b1d!important; 
+    border-collapse: collapse;
+    color:#fff; 
+    width: 100%;
+    font-size: 0.8rem;
+  }
+  
+  /* Styling for the header cells */
+  details table th {
+    background-color: #161718 !important; 
+    color: #ffffff; 
+    padding: 10px;
+    text-align: left;
+  }
+  
+  /* Add style for regular table cells */
+  details table td {
+    padding: 10px;
+    color: #f0f0f0;
+    border: 1px solid #141313;
+    text-align: left;
+  }
+  /* widen last column */
+details table th:nth-child(6), details table td:nth-child(6) {
+    width: 10%;  
+    }
+
+details summary {
+        color: #aeacac;        
+        font-style: italic;    
+      }
+details table a {
+        color: #6897e7;  /* Example: Tomato color */
+        text-decoration: none; /* Optional: Removes underline */
+      }
