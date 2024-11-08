@@ -21,7 +21,7 @@ format: html
 ::: {.g-col-6}
 <strong><span style="font-size: 1.25em;">PWHL Goalie Tracker</span></strong>
 
-A fan-friendly dashboard showcasing goalie statistics and team rankings for the inaugural season of the Professional Women's Hockey League (PWHL).&nbsp;
+This fan-friendly dashboard showcases goalie statistics and team rankings for the inaugural season of the Professional Women's Hockey League (PWHL).&nbsp;
 
 <a href="https://2wc8dv-nicole-bidwell.shinyapps.io/pwhl_goalie_tracker/" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
 <a href="https://github.com/nicolebid/pwhl_goalie_tracker" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
@@ -77,9 +77,48 @@ An article discussing educator perspectives on AI in education, containing my in
 ::: {.g-col-6}
 <strong><span style="font-size: 1.25em;">Airbnb Analysis</span></strong>
 
-A project that implements machine learning models to predict listing prices based on property features, offering insights into the key factors that drive pricing trends. &nbsp;
+This project implements machine learning models to predict listing prices based on property features. It offers insights into the key factors that drive pricing trends. &nbsp;
 
 <a href="https://github.com/MoNorouzi23/Airbnb_analysis" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
+:::
+
+:::
+***
+<div style="margin-top: 35px;"></div> <!-- #5 PROJECT: EDA MDS -->
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/eda_mds.jpg)
+:::
+
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">eda_mds</span></strong>
+
+This package accelerates the EDA stage of machine learning projects by enhancing the core EDA functions in pandas python package. It includes four functions designed to deliver deeper insights and identify potential issues in datasets.&nbsp;
+
+<a href="https://github.com/UBC-MDS/eda_mds" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>&nbsp;
+<a href="https://eda-mds.readthedocs.io/en/latest/example.html" class="btn btn-custom-primary" target="_blank">Vingette</a>
+:::
+
+:::
+***
+
+<div style="margin-top: 35px;"></div> <!-- #5 PROJECT: EDA MDS -->
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/wine.png)
+:::
+
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">Red Wine Quality Prediction</span></strong>
+
+This project employs machine learning models to predict red wine quality, based on its physiochemical properties.&nbsp;
+
+<a href="https://github.com/UBC-MDS/Red-Wine-Quality-Prediction" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>&nbsp;
+<a href="https://ubc-mds.github.io/Red-Wine-Quality-Prediction/red_wine_quality_prediction.html" class="btn btn-custom-primary" target="_blank">Report</a>
 :::
 
 :::
@@ -90,12 +129,12 @@ A project that implements machine learning models to predict listing prices base
 
   | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion <br> (YYYY-MM)       | Link                        |
   |:-------------:|:----------------------------:|:----------------:|:----------------------------:|:------------:|:-------------------------------------:|
-  | Airbnb Analysis   | A machine learning project predicting listing prices based on property features, offering insights into the key factors that drive Airbnb pricing trends.   | Machine Learning, Regression Analysis, EDA, Feature Engineering, Model Interpretability  | Python, NumPy, Pandas, Altair, scikit-learn, SHAP, XGBoost, LightGBM, joblib          | 2024-09   |  [Repo](https://github.com/MoNorouzi23/Airbnb_analysis/tree/main)<br><br>[Report](https://github.com/MoNorouzi23/Airbnb_analysis/blob/main/Airbnb_analysis_report_copy.pdf) |
+  | Airbnb Analysis   | A machine learning project predicting listing prices based on property features, offering insights into the key factors that drive Airbnb pricing trends.   | Machine Learning, Regression Analysis, EDA, Feature Engineering, Model Interpretability  | Python, NumPy, pandas, Altair, scikit-learn, SHAP, XGBoost, LightGBM, joblib          | 2024-09   |  [Repo](https://github.com/MoNorouzi23/Airbnb_analysis/tree/main)<br><br>[Report](https://github.com/MoNorouzi23/Airbnb_analysis/blob/main/Airbnb_analysis_report_copy.pdf) |
   | Leveraging the Power of AI in Education: Insider Perspectives and Practices   | An article discussing educator perspectives on AI in education, containing my insights paired with survey-based results of effective implementations and concerns.   | AI in Education  | N/A      | 2024-08   |  [Medium Article](https://medium.com/@nrbidwell/leveraging-the-power-of-ai-in-education-insider-perspectives-and-practices-0679cb21d467) |
   | PWHL Goalie Tracker     | A fan-friendly dashboard showcasing goalie statistics and team rankings for the inaugural season of the Professional Women’s Hockey League (PWHL).      | Data Visualization    | R, Shiny, ggplot2, dplyr     | 2024-07   | [Repo](https://github.com/nicolebid/pwhl_goalie_tracker)<br><br>[App](https://2wc8dv-nicole-bidwell.shinyapps.io/pwhl_goalie_tracker/)|
-  | Solar Savers: Solar Panel Cost-Effectiveness  | A dashboard application designed to assist Canadian homeowners in making informed solar panel purchasing decisions.      | Data Visualization      | Python, Dash, Pandas, Geopandas, Altair       | 2024-04   | [Repo](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)<br><br>[App](https://dsci-532-2024-9-solar-savers.onrender.com/) |
-  | eda_mds | A Python package that kick-starts the EDA stage of machine learning projects, enhancing pandas' EDA functions with four functions that deliver insights and identify potential problems in the dataset.  | Python Package Development, EDA  | Python, Pandas, GitHub Actions | 2024-02   |  [Repo](https://github.com/UBC-MDS/eda_mds) |
-  | Red Wine Quality Prediction  | This project aimed to create a classification model to predict red wine quality based on its physiochemical properties. The best model showed reasonable accuracy, highlighting areas for improvement in handling outliers.  | Machine Learning, Classification, Unit Testing  | GitHub Actions, Docker, Python, Pandas, scikit-learn, matplotlib, pickle, seaborn, NumPy, Altair      | 2023-12   |  [Repo](https://github.com/UBC-MDS/Red-Wine-Quality-Prediction)<br><br>[Report](https://ubc-mds.github.io/Red-Wine-Quality-Prediction/red_wine_quality_prediction.html) |
+  | Solar Savers: Solar Panel Cost-Effectiveness  | A dashboard application designed to assist Canadian homeowners in making informed solar panel purchasing decisions.      | Data Visualization      | Python, Dash, pandas, GeoPandas, Altair       | 2024-04   | [Repo](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)<br><br>[App](https://dsci-532-2024-9-solar-savers.onrender.com/) |
+  | eda_mds | A Python package that kick-starts the EDA stage of machine learning projects, enhancing pandas' EDA functions with four functions that deliver insights and identify potential problems in the dataset.  | Python Package Development, EDA  | Python, pandas, GitHub Actions | 2024-02   |  [Repo](https://github.com/UBC-MDS/eda_mds)<br><br>[Vingette](https://eda-mds.readthedocs.io/en/latest/example.html) |
+  | Red Wine Quality Prediction  | This project aimed to create a classification model to predict red wine quality based on its physiochemical properties. The best model showed reasonable accuracy, highlighting areas for improvement in handling outliers.  | Machine Learning, Classification, Unit Testing  | GitHub Actions, Docker, Python, pandas, scikit-learn, matplotlib, pickle, seaborn, NumPy, Altair      | 2023-12   |  [Repo](https://github.com/UBC-MDS/Red-Wine-Quality-Prediction)<br><br>[Report](https://ubc-mds.github.io/Red-Wine-Quality-Prediction/red_wine_quality_prediction.html) |
 
 </details>
 

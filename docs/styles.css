@@ -225,7 +225,8 @@ details table th:nth-child(6), details table td:nth-child(6) {
 
 details summary {
         color: #aeacac;        
-        font-style: italic;    
+        font-style: italic;  
+        font-size: 0.85rem;  
       }
 details table a {
         color: #6897e7;  /* Example: Tomato color */

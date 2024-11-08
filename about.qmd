@@ -11,9 +11,9 @@ format: html
 
 <br>
 
-Hi! I'm Nicole, a Data Science Specialist with a rewarding career in Education. Obtaining a Master of Data Science from the University of British Columbia, 
+Hi! I'm Nicole, a Data Science Specialist with a rewarding career in education. Obtaining a Master of Data Science from the University of British Columbia, 
 and a Bachelor of Science in Mathematics from Simon Fraser University, has built my foundation in data analysis, machine learning and statistical modeling.
-Working in Education&mdash;including roles as a Senior Mathematics Teacher and Guidance Counselor&mdash;has refined my problem-solving skills and ability to 
+Working in education&mdash;including roles as a Senior Mathematics Teacher and Guidance Counselor&mdash;has refined my problem-solving skills and ability to 
 communicate complex topics to diverse audiences. I now apply these skills in data science to uncover insights and facilitate data-driven decisions. 
 
 Beyond my professional pursuits, you’ll find me immersed in activities like hockey, hiking, travel, and promoting mental well-being. This website serves as a platform 
