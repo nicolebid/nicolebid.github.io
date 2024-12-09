@@ -22,4 +22,4 @@ The contents of this repository is licensed under the Creative Commons CC0 1.0 U
 ## 🙏 Credits 
 
 - Built with [Quarto](https://quarto.org).
-- Contact form powered by [Typeform](https://www.typeform.com)
+- Contact form powered by [Typeform](https://www.typeform.com). 
