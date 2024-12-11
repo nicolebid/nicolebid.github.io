@@ -104,7 +104,7 @@ This package accelerates the EDA stage of machine learning projects by enhancing
 :::
 ***
 
-<div style="margin-top: 35px;"></div> <!-- #5 PROJECT: EDA MDS -->
+<div style="margin-top: 35px;"></div> <!-- #6 PROJECT: WINE -->
 
 ::: {.grid}
 
@@ -124,6 +124,25 @@ This project employs machine learning models to predict red wine quality, based 
 :::
 ***
 
+<div style="margin-top: 35px;"></div> <!-- #7 PROJECT: SOCIAL JUSTICE -->
+
+::: {.grid}
+
+::: {.g-col-6}
+![](img/social_justice.png)
+:::
+
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">Gentrification in Vancouver: Teaching Mathematics through a Social Justice Lens</span></strong>
+
+An article discussing the implementation and difficulties of teaching mathematics alongside social justice with example lesson activities.&nbsp;
+
+<a href="https://drive.google.com/file/d/1cXs7TQIjLwxj3dPTwH3hieqJc2GrcnOI/view" class="btn btn-custom-primary" target="_blank">Article</a>&nbsp; <i><span style="font-size: 0.9em; color: #6897e7;">(pg. 13-15)</span></i>
+:::
+
+:::
+***
+
 <details>
   <summary>Click to view a summary table with project details.</summary>
 
@@ -135,6 +154,6 @@ This project employs machine learning models to predict red wine quality, based 
   | Solar Savers: Solar Panel Cost-Effectiveness  | A dashboard application designed to assist Canadian homeowners in making informed solar panel purchasing decisions.      | Data Visualization      | Python, Dash, pandas, GeoPandas, Altair       | 2024-04   | [Repo](https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers)<br><br>[App](https://dsci-532-2024-9-solar-savers.onrender.com/) |
   | eda_mds | A Python package that kick-starts the EDA stage of machine learning projects, enhancing pandas' EDA functions with four functions that deliver insights and identify potential problems in the dataset.  | Python Package Development, EDA  | Python, pandas, GitHub Actions | 2024-02   |  [Repo](https://github.com/UBC-MDS/eda_mds)<br><br>[Vingette](https://eda-mds.readthedocs.io/en/latest/example.html) |
   | Red Wine Quality Prediction  | This project aimed to create a classification model to predict red wine quality based on its physiochemical properties. The best model showed reasonable accuracy, highlighting areas for improvement in handling outliers.  | Machine Learning, Classification, Unit Testing  | GitHub Actions, Docker, Python, pandas, scikit-learn, matplotlib, pickle, seaborn, NumPy, Altair      | 2023-12   |  [Repo](https://github.com/UBC-MDS/Red-Wine-Quality-Prediction)<br><br>[Report](https://ubc-mds.github.io/Red-Wine-Quality-Prediction/red_wine_quality_prediction.html) |
-
+  | Gentrification in Vancouver: Teaching Mathematics through a Social Justice Lens | An article discussing the implementation and difficulties of teaching mathematics alongside social justice with example lesson activities. | Mathematics Education & Social Justice | N/A | 2017-03 | [Article](https://drive.google.com/file/d/1cXs7TQIjLwxj3dPTwH3hieqJc2GrcnOI/view) <br> <i><span style="font-size: 0.9em; color: #6897e7;">(pg. 13-15)</span></i> | 
 </details>
 
