@@ -11,7 +11,7 @@ format: html
 <br>
 
 <div style="text-align: center;">
-I welcome your thoughts and insights! Whether you have questions, feedback, or have ideas for collaboration, I'm happy to connect. 
+I welcome your thoughts and insights! Whether you have questions, feedback, or ideas for collaboration, I'm happy to connect. 
 </div>
 
 <br>
