@@ -12,12 +12,31 @@ format: html
 <div style="text-align: center;">
   *** 
 </div>
-<div style="margin-bottom: 37px;"></div>
+<div style="margin-bottom: 37px;"></div> <!-- #1 PROJECT: SYNCED SUPPORT -->
 
 ::: {.grid}
 ::: {.g-col-6}
+<img src="img/synced_support_demo.gif" alt="Synced Support" class="img-fluid" />
+:::
+::: {.g-col-6}
+<strong><span style="font-size: 1.25em;">Synced Support</span></strong>
+
+A dashboard for Learning Support Teachers to track their students' deadlines, schedules, attendance, and work habits.
+
+<a href="https://synced-support.onrender.com/" class="btn btn-custom-primary" target="_blank">App</a> &nbsp;
+<a href="https://github.com/nicolebid/synced_support" class="btn btn-custom-primary" target="_blank">GitHub Repo</a>
+:::
+
+:::
+***
+<div style="margin-top: 35px;"></div> <!-- #2 PROJECT: PWHL GOALIE TRACKER -->
+
+::: {.grid}
+
+::: {.g-col-6}
 <img src="img/pwhl_goalie_tracker_demo.gif" alt="PWHL Goalie Tracker" class="img-fluid" />
 :::
+
 ::: {.g-col-6}
 <strong><span style="font-size: 1.25em;">PWHL Goalie Tracker</span></strong>
 
@@ -29,7 +48,7 @@ This fan-friendly dashboard showcases goalie statistics and team rankings for th
 
 :::
 ***
-<div style="margin-top: 35px;"></div> <!-- #2 PROJECT: SOLAR SAVERS -->
+<div style="margin-top: 35px;"></div> <!-- #3 PROJECT: SOLAR SAVERS -->
 
 ::: {.grid}
 
@@ -48,7 +67,7 @@ A dashboard application developed collaboratively and designed to assist Canadia
 
 :::
 ***
-<div style="margin-top: 35px;"></div> <!-- #3 PROJECT: AI ED ARTICLE -->
+<div style="margin-top: 35px;"></div> <!-- #4 PROJECT: AI ED ARTICLE -->
 
 ::: {.grid}
 
@@ -66,7 +85,7 @@ An article discussing educator perspectives on AI in education, containing my in
 
 :::
 ***
-<div style="margin-top: 35px;"></div> <!-- #4 PROJECT: AIRBNB ANALYSIS -->
+<div style="margin-top: 35px;"></div> <!-- #5 PROJECT: AIRBNB ANALYSIS -->
 
 ::: {.grid}
 
@@ -84,7 +103,7 @@ This project implements machine learning models to predict listing prices based 
 
 :::
 ***
-<div style="margin-top: 35px;"></div> <!-- #5 PROJECT: EDA MDS -->
+<div style="margin-top: 35px;"></div> <!-- #6 PROJECT: EDA MDS -->
 
 ::: {.grid}
 
@@ -104,7 +123,7 @@ This package accelerates the EDA stage of machine learning projects by enhancing
 :::
 ***
 
-<div style="margin-top: 35px;"></div> <!-- #6 PROJECT: WINE -->
+<div style="margin-top: 35px;"></div> <!-- #7 PROJECT: WINE -->
 
 ::: {.grid}
 
@@ -124,7 +143,7 @@ This project employs machine learning models to predict red wine quality based o
 :::
 ***
 
-<div style="margin-top: 35px;"></div> <!-- #7 PROJECT: SOCIAL JUSTICE -->
+<div style="margin-top: 35px;"></div> <!-- #8 PROJECT: SOCIAL JUSTICE -->
 
 ::: {.grid}
 
@@ -148,8 +167,9 @@ This article discusses the implementation and challenges of teaching mathematics
 <div class="table-wrapper">
   <div class="table-responsive">
 
-  | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion <br> (YYYY-MM)       | Link                        |
+  | Project       | Description                          | Focus Area         | Main Tools/Libraries      | Completion <br> (YYYY-MM)       | Link        |
   |:-------------:|:----------------------------:|:----------------:|:----------------------------:|:------------:|:-------------------------------------:|
+  | Synced Support  |  A dashboard for Learning Support Teachers to track their students' deadlines, schedules, attendance, and work habits, in one place with a demo mode that runs on sample data.  | Data Visualization, Dashboard Development, Dashboard Deployment, Education Technology  |   Python, pandas, Plotly, Dash, CSS     | 2026-10   |  [Repo](https://github.com/nicolebid/synced_support)<br><br>[App](https://synced-support.onrender.com/) |
   | Airbnb Analysis   | A machine learning project predicting listing prices based on property features, offering insights into the key factors that drive Airbnb pricing trends.   | Machine Learning, Regression Analysis, EDA, Feature Engineering, Model Interpretability  | Python, NumPy, pandas, Altair, scikit-learn, SHAP, XGBoost, LightGBM, joblib          | 2024-09   |  [Repo](https://github.com/MoNorouzi23/Airbnb_analysis/tree/main)<br><br>[Report](https://github.com/MoNorouzi23/Airbnb_analysis/blob/main/Airbnb_analysis_report_copy.pdf) |
   | Leveraging the Power of AI in Education: Insider Perspectives and Practices   | An article discussing educator perspectives on AI in education, containing my insights paired with survey-based results of effective implementations and concerns.   | AI in Education  | N/A      | 2024-08   |  [Medium Article](https://medium.com/@nrbidwell/leveraging-the-power-of-ai-in-education-insider-perspectives-and-practices-0679cb21d467) |
   | PWHL Goalie Tracker     | A fan-friendly dashboard showcasing goalie statistics and team rankings for the inaugural season of the Professional Women’s Hockey League (PWHL).      | Data Visualization    | R, Shiny, ggplot2, dplyr     | 2024-07   | [Repo](https://github.com/nicolebid/pwhl_goalie_tracker)<br><br>[App](https://2wc8dv-nicole-bidwell.shinyapps.io/pwhl_goalie_tracker/)|
@@ -160,4 +180,6 @@ This article discusses the implementation and challenges of teaching mathematics
   </div>
 </div>
 </details>
+
+
 
